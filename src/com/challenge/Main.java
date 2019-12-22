@@ -1,8 +1,12 @@
 package com.challenge;
 
+import UserInputUtil.UserInput;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+
+        System.out.println(UserInput.getStringFromUser());
+
     }
 }
