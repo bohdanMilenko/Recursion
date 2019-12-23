@@ -7,9 +7,9 @@ import java.util.regex.Pattern;
 
 public class UserInput {
 
-   private static Scanner scanner = new Scanner(System.in);
+    private static Scanner scanner = new Scanner(System.in);
 
-    public static String getStringFromUser(){
+    public static String getStringFromUser() {
         String returnString = "";
         int i = 0;
         try {
