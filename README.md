@@ -1,9 +1,9 @@
 # String Transformer via Recursion
 
-Main aim of this app is to use recursion to manipulate a string and transform it to the certain format.
+The main aim of this app is to use recursion to manipulate a string and transform it into a certain format.
 
 Application takes a string from the user and looks for the consecutive characters. 
-If there is a sequence of 4 characters - "eeee", they should be replaced with "e4". Otherwise the input character will be the same as the output.
+If there is a sequence of 4 characters - "eeee", they should be replaced with "e4". Otherwise, the input character will be the same as the output.
 
 ## Examples
 
@@ -17,4 +17,4 @@ If there is a sequence of 4 characters - "eeee", they should be replaced with "e
 
 ## Test
 
-The created method is fully covered with Junit tests and works correctly with any String passed in the method. 
+The created method is fully covered with Junit tests and works correctly with any String passed in the method. 
