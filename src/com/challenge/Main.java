@@ -9,6 +9,9 @@ public class Main {
 
         String stringFromUser = UserInput.getStringFromUser();
         System.out.println(shortenString(stringFromUser, 1, 'a'));
+        System.out.println(shortenString(stringFromUser, 2, 'a'));
+        System.out.println(shortenString(stringFromUser, 3, 'b'));
+        System.out.println(shortenString(stringFromUser, 1, 'f'));
 
     }
 
